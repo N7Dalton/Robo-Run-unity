@@ -1392,6 +1392,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Orb (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6611418551324468002, guid: 8c965d9ac4b54d640a17ad8057f5390f,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8c965d9ac4b54d640a17ad8057f5390f, type: 3}
 --- !u!1 &1028513131
